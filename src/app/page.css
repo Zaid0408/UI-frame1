@@ -1,0 +1,15 @@
+.mainContainer {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .gridItem {
+    background-color: white;
+    padding: 20px;
+  }
+  
+  .typography {
+    color: black;
+    margin-bottom: 1rem;
+  }
+  
